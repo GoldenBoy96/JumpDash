@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "0169ff8b-0a7e-4241-94b7-b57bf2a4b688",
+  "uuid": "1468bc2d-3cb1-4409-940a-7e63a7699fbf",
   "files": [
     ".png",
     ".json"
@@ -10,14 +10,14 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "0169ff8b-0a7e-4241-94b7-b57bf2a4b688@6c48a",
+      "uuid": "1468bc2d-3cb1-4409-940a-7e63a7699fbf@6c48a",
       "displayName": "Circle",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
-        "imageUuidOrDatabaseUri": "0169ff8b-0a7e-4241-94b7-b57bf2a4b688",
+        "imageUuidOrDatabaseUri": "1468bc2d-3cb1-4409-940a-7e63a7699fbf",
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
@@ -33,7 +33,7 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "0169ff8b-0a7e-4241-94b7-b57bf2a4b688@f9941",
+      "uuid": "1468bc2d-3cb1-4409-940a-7e63a7699fbf@f9941",
       "displayName": "Circle",
       "id": "f9941",
       "name": "spriteFrame",
@@ -55,7 +55,7 @@
         "borderRight": 0,
         "packable": true,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "0169ff8b-0a7e-4241-94b7-b57bf2a4b688@6c48a",
+        "imageUuidOrDatabaseUri": "1468bc2d-3cb1-4409-940a-7e63a7699fbf@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.9",
@@ -69,6 +69,6 @@
   "userData": {
     "type": "sprite-frame",
     "hasAlpha": true,
-    "redirect": "0169ff8b-0a7e-4241-94b7-b57bf2a4b688@f9941"
+    "redirect": "1468bc2d-3cb1-4409-940a-7e63a7699fbf@f9941"
   }
 }
